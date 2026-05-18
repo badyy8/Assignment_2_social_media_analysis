@@ -1,0 +1,23 @@
+# Data files (Large datasets)
+*.parquet
+*.csv
+*.tsv
+*.xlsx
+
+# Models / Binaries
+*.ftz
+*.bin
+*.pkl
+*.h5
+
+# Python environment and cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
