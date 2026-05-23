@@ -349,23 +349,4 @@ The output folder can be included if the group wants markers to view generated c
 
 ---
 
-## Current Status
 
-Completed:
-
-- Dataset loaded successfully
-- HD-level text cleaning completed
-- Word frequency analysis completed
-- Bigram frequency analysis completed
-- TF-IDF vectorisation completed
-- NMF topic modelling completed
-- Topic labels created
-- Topic distribution calculated
-- Representative tweets generated
-- Final tables and charts exported
-
-Pending:
-
-- Add selected charts/tables into final report
-- Connect text analysis findings with sentiment and network analysis
-- Finalise written discussion for the report
