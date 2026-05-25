@@ -1,8 +1,12 @@
 # Social Media and Network Analysis Assignment 2
 ## Bitcoin Twitter Discourse Analysis
 
-**Dataset:** Bitcoin Tweets 2025–2026 (Kaggle) https://www.kaggle.com/datasets/pokeash/bitcoin-tweets-dataset-20252026
-**Cleaned dataset size:** 632,179 tweets
+**Dataset:** Bitcoin Tweets 2025–2026 (Kaggle) [Link](https://www.kaggle.com/datasets/pokeash/bitcoin-tweets-dataset-20252026)
+
+**Cleaned dataset size:** 632,179 tweets [Link](https://rmiteduau-my.sharepoint.com/:u:/g/personal/s4042215_student_rmit_edu_au/IQCF1Y6Akna0R6drBcScRQ5DAYRVP-OXGsYk9NucB13b9cY?e=3UBruN)
+
+**Sample dataset size:** 9,000 tweets [Link](https://rmiteduau-my.sharepoint.com/:x:/g/personal/s4042215_student_rmit_edu_au/IQAHPOM1IdnnQpJ7G8Dc8WsJAQOiyXjSJ5UVmHlI3N4flBA?e=05nWoD)  
+*Note: Unless this dataset is put in the `data/` folder, the pipeline will not run. Since sample data is not the initial dataset, figures and numbers will differ from the report.*
 
 ---
 
