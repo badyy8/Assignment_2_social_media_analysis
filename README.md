@@ -14,7 +14,7 @@
 
 | Notebook | Owner | Description |
 |---|---|---|
-| `data_cleaning.ipynb` | Batbilegt | Filtering pipeline |
+| `data_cleaning.ipynb` | Batbilegt | Filtering pipeline  |
 | `01_data_network.ipynb` | Batbilegt | EDA, Network analysis |
 | `02_sentiment.ipynb` | Jack | Sentiment analysis |
 | `03_word_frequency_topic_modeling.ipynb` | Ashwin | Word & bigram frequency |
@@ -41,10 +41,10 @@ data/bitcoin_tweet.parquet
 ## Run Order
 
 ```text
-01_data_network.ipynb
-02_sentiment.ipynb
 03_word_frequency_topic_modeling.ipynb
 04_topic_modelling.ipynb
+02_sentiment.ipynb
+01_data_network.ipynb
 ```
 
 Notebooks all load from `data/bitcoin_tweet.parquet`.
