@@ -1,0 +1,9 @@
+networkx
+python-louvain
+seaborn
+pandas 
+numpy 
+matplotlib 
+scikit-learn 
+pyarrow
+vaderSentiment

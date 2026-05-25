@@ -18,6 +18,16 @@ venv/
 env/
 .env
 
+
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# visuaslization outputs
+*.png
+*.jpg
+*.html
+*.pdf
+
+# Custom libraries / external code
+lib/
