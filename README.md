@@ -1,4 +1,4 @@
-# COSC 2671 / COSC 3047 — Assignment 2
+# Social Media and Network Analysis Assignment 2
 ## Bitcoin Twitter Discourse Analysis
 
 **Dataset:** Bitcoin Tweets 2025–2026 (Kaggle) https://www.kaggle.com/datasets/pokeash/bitcoin-tweets-dataset-20252026
