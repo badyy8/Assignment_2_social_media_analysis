@@ -27,7 +27,6 @@ Thumbs.db
 *.png
 *.jpg
 *.html
-*.pdf
 
 # Custom libraries / external code
 lib/
